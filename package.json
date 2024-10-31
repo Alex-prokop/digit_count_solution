@@ -1,0 +1,20 @@
+{
+  "name": "digit_count_solution",
+  "version": "1.0.0",
+  "main": "digit_count_solution.js",
+  "scripts": {
+    "start": "node digit_count_solution.js",
+    "train": "node create_mnist_model.js",
+    "recognize": "node digit_recognition.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "@tensorflow/tfjs-node": "^4.22.0",
+    "adm-zip": "^0.5.16",
+    "jimp": "^0.16.1",
+    "mnist": "^1.1.0"
+  }
+}
