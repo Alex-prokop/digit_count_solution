@@ -4,7 +4,6 @@
 
 **Clone the repository**:
 
-```bash
 git clone https://github.com/Alex-prokop/digit_count_solution
 cd digit_count_solution
 
@@ -41,4 +40,3 @@ Used TensorFlow and Keras to load MNIST data, build the model, train it, and sav
 
 For JavaScript:
 Used TensorFlow.js and the mnist package to load data, create and train the model, and save it in TensorFlow.js format optimized for web applications.
-```
